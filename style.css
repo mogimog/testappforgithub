@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: url('https://images.unsplash.com/photo-1515868769-ad822a0c67e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')
+	no-repeat center center fixed;
+	background-size: cover;
+	font-family: sans-serif;
+
+}
+
+.container {
+	width: 40%;
+	margin: auto;
+	overflow: hidden;
+	text-align: center;
+	background-color: #fff;
+	border-radius: 10px;
+	margin-top: 8%;
+	padding: 1rem;
+}
+
+hr{
+	width: 80%;
+	margin: auto;
+
+}
